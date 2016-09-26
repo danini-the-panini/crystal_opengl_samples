@@ -1,0 +1,16 @@
+name: opengl_samples
+version: 0.1.0
+
+authors:
+  - Daniel Smith <jellymann@gmail.com>
+
+dependencies:
+  lib_gl:
+    github: jellymann/crystal_lib_gl
+    branch: master
+
+  glfw:
+    github: jellymann/crystal_glfw
+    branch: master
+
+license: MIT
