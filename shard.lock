@@ -2,11 +2,11 @@ version: 1.0
 shards:
   glfw:
     github: jellymann/crystal_glfw
-    commit: a51f0f152fc6a23629061e04cc568f1cd1fd3e0e
+    commit: c071bbfa3f7b09fff52b4133947d8ec2bbc1b615
 
   lib_gl:
     github: jellymann/crystal_lib_gl
-    commit: bbf7619868194150b25132c4208207a1099dc576
+    commit: 98f797f3fedb86dca450c94f0a5ee3adcccfc6ba
 
   lib_glfw3:
     github: jellymann/crystal_lib_glfw3
